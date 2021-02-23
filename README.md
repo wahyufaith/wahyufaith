@@ -1,5 +1,5 @@
 # Hi 👋, I'm wahyufaith
-<center><b>passionate about artificial intelligence and web development</b></center>
+#### passionate about artificial intelligence and web development
 <!--
 **wahyufaith/wahyufaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
