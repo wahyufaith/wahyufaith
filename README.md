@@ -13,5 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://img.shields.io/badge/left-right-f39f37
 ![Wahyu GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyufaith&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufaith&theme=dark&show_icons=true&layout=compact)](https://github.com/wahyufaith/github-readme-stats)
