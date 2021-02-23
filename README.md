@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Wahyu Faith GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyufaith&theme=dark&show_icons=true)
+![Wahyu GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyufaith&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufaith)](https://github.com/wahyufaith/github-readme-stats)
