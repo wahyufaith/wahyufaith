@@ -16,17 +16,5 @@ Here are some ideas to get you started:
 ![Wahyu GitHub stats](https://github-readme-stats.vercel.app/api?username=wahyufaith&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufaith&theme=dark&show_icons=true&layout=compact)](https://github.com/wahyufaith/github-readme-stats)
 
-const f = s => {
-  if (typeof s === `string`) {
-    return `Its a String`
-  }
 
-  if (Array.isArray(s)) {
-    return `Its an Array`
-  }
-
-  throw new Error(`Supplied value was invalid`)
-}
-
-const value = null
-expect(() => f(value)).Throw(`Supplied value was invalid`)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
